@@ -2,8 +2,7 @@ import sys
 import requests
 import random
 
-URL = "https://earthview.withgoogle.com/_api/photos.json"
-IMAGE_BASEURL = "earthview.withgoogle.com/"
+URL = "https://raw.githubusercontent.com/limhenry/earthview/master/earthview.json"
 
 README = """
 ![{title}]({image_src})
@@ -19,8 +18,14 @@ def fetch_image():
     print("download image...")
 
     array = requests.get(URL).json()
+
+    info = array[random.randint(0,len(array))]
+
+    country = info['country']
     
-    slug =  array[random.randint(0,len(array))]["slug"]
+    image = info["image"]
+
+    map = info['map']
 
     # content = requests.get(URL).content
     # print(content)
@@ -34,7 +39,7 @@ def fetch_image():
     # print(f"{relative_link} {title}, image srcset:{image_src}")
     # print(f"best image: {best_image}")
     # return relative_link, title, "https://" + best_image[2:]
-    return "", slug, "https://" + IMAGE_BASEURL + slug
+    return map, country, image
 
 
 
@@ -48,7 +53,7 @@ with open("readme.md", "r") as old_readme:
 new_readme = README.format(
     title=title,
     image_src=image_src,
-    wiki_link="https://wikipedia.org" + relative_link,
+    wiki_link=relative_link,
 )
 
 print("new readme file generate... save...")
