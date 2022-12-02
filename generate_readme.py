@@ -27,18 +27,6 @@ def fetch_image():
 
     map = info['map']
 
-    # content = requests.get(URL).content
-    # print(content)
-    # html = lxml.html.fromstring(content)
-    # presentation_table = html.xpath("//table[@role='presentation']")[0]
-    # a_tag = presentation_table.xpath(".//a[@class='image']")[0]
-    # relative_link = a_tag.get("href")
-    # title = a_tag.get("title")
-    # image_src = a_tag.xpath("./img/@srcset")[0]
-    # best_image = image_src.split(" ")[0]
-    # print(f"{relative_link} {title}, image srcset:{image_src}")
-    # print(f"best image: {best_image}")
-    # return relative_link, title, "https://" + best_image[2:]
     return map, country, image
 
 
