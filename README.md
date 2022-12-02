@@ -1,4 +1,4 @@
 
-![Argentina](https://www.gstatic.com/prettyearth/assets/full/2308.jpg)
+![West Sahara](https://www.gstatic.com/prettyearth/assets/full/1843.jpg)
 
-*[Argentina](https://www.google.com/maps/@-38.022921,-69.924052,16z/data=!3m1!1e3)*
+*[West Sahara](https://www.google.com/maps/@26.738712,-13.026609,15z/data=!3m1!1e3)*
