@@ -33,7 +33,7 @@ def fetch_image():
 
 relative_link, title, image_src = fetch_image()
 
-with open("readme.md", "r") as old_readme:
+with open("README.md", "r") as old_readme:
     if title in old_readme.read():
         print("Todays featured image not change!")
         sys.exit()
@@ -45,5 +45,5 @@ new_readme = README.format(
 )
 
 print("new readme file generate... save...")
-with open("readme.md", "w+") as f:
+with open("README.md", "w+") as f:
     f.write(new_readme)
