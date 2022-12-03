@@ -1,4 +1,4 @@
 
-![United Kingdom](https://www.gstatic.com/prettyearth/assets/full/5686.jpg)
+![Uzbekistan](https://www.gstatic.com/prettyearth/assets/full/1620.jpg)
 
-*[United Kingdom](https://www.google.com/maps/@51.682844,-1.788985,15z/data=!3m1!1e3)*
+*[Uzbekistan](https://www.google.com/maps/@44.487063,60.865137,11z/data=!3m1!1e3)*
