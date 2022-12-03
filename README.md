@@ -1,4 +1,4 @@
 
-![The Bahamas](https://www.gstatic.com/prettyearth/assets/full/1688.jpg)
+![Kuwait](https://www.gstatic.com/prettyearth/assets/full/1724.jpg)
 
-*[The Bahamas](https://www.google.com/maps/@24.693269,-78.272181,15z/data=!3m1!1e3)*
+*[Kuwait](https://www.google.com/maps/@29.957621,48.069971,15z/data=!3m1!1e3)*
