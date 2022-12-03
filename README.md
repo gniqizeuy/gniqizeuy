@@ -1,4 +1,4 @@
 
-![Algeria](https://www.gstatic.com/prettyearth/assets/full/1976.jpg)
+![Poland](https://www.gstatic.com/prettyearth/assets/full/1397.jpg)
 
-*[Algeria](https://www.google.com/maps/@30.378725,9.050503,14z/data=!3m1!1e3)*
+*[Poland](https://www.google.com/maps/@52.112541,21.080312,18z/data=!3m1!1e3)*
