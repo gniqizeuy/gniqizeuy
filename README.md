@@ -1,4 +1,4 @@
 
-![Australia](https://www.gstatic.com/prettyearth/assets/full/1909.jpg)
+![Kenya](https://www.gstatic.com/prettyearth/assets/full/7012.jpg)
 
-*[Australia](https://www.google.com/maps/@-34.017768,151.112137,17z/data=!3m1!1e3)*
+*[Kenya](https://www.google.com/maps/@2.255778,37.939909,11z/data=!3m1!1e3)*
