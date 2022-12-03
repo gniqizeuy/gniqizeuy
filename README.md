@@ -1,4 +1,4 @@
 
-![Madagascar](https://www.gstatic.com/prettyearth/assets/full/6018.jpg)
+![New Zealand](https://www.gstatic.com/prettyearth/assets/full/7005.jpg)
 
-*[Madagascar](https://www.google.com/maps/@-15.619958,47.034745,15z/data=!3m1!1e3)*
+*[New Zealand](https://www.google.com/maps/@-36.874954,174.744756,11z/data=!3m1!1e3)*
