@@ -1,4 +1,4 @@
 
-![The Netherlands](https://www.gstatic.com/prettyearth/assets/full/2007.jpg)
+![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6356.jpg)
 
-*[The Netherlands](https://www.google.com/maps/@51.178858,5.91339,15z/data=!3m1!1e3)*
+*[Mauritania](https://www.google.com/maps/@19.400438,-16.400368,15z/data=!3m1!1e3)*
