@@ -1,4 +1,4 @@
 
-![Faroe Islands](https://www.gstatic.com/prettyearth/assets/full/1824.jpg)
+![Democratic Republic of the Congo](https://www.gstatic.com/prettyearth/assets/full/2103.jpg)
 
-*[Faroe Islands](https://www.google.com/maps/@62.150583,-6.784594,14z/data=!3m1!1e3)*
+*[Democratic Republic of the Congo](https://www.google.com/maps/@-3.837557,21.61515,13z/data=!3m1!1e3)*
