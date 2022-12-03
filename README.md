@@ -1,4 +1,4 @@
 
-![Belize](https://www.gstatic.com/prettyearth/assets/full/7022.jpg)
+![Falkland Islands (Islas Malvinas)](https://www.gstatic.com/prettyearth/assets/full/1154.jpg)
 
-*[Belize](https://www.google.com/maps/@17.315571,-87.534514,11z/data=!3m1!1e3)*
+*[Falkland Islands (Islas Malvinas)](https://www.google.com/maps/@-51.765426,-60.205795,17z/data=!3m1!1e3)*
