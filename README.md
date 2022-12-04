@@ -1,4 +1,4 @@
 
-![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6496.jpg)
+![France](https://www.gstatic.com/prettyearth/assets/full/1505.jpg)
 
-*[Mauritania](https://www.google.com/maps/@16.350327,-7.684464,17z/data=!3m1!1e3)*
+*[France](https://www.google.com/maps/@48.866839,2.310347,17z/data=!3m1!1e3)*
