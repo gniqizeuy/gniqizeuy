@@ -1,4 +1,4 @@
 
-![Syria](https://www.gstatic.com/prettyearth/assets/full/6072.jpg)
+![Madagascar](https://www.gstatic.com/prettyearth/assets/full/6006.jpg)
 
-*[Syria](https://www.google.com/maps/@36.052265,37.529211,15z/data=!3m1!1e3)*
+*[Madagascar](https://www.google.com/maps/@-23.680962,43.639884,15z/data=!3m1!1e3)*
