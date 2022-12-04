@@ -1,4 +1,4 @@
 
-![Libya](https://www.gstatic.com/prettyearth/assets/full/6271.jpg)
+![Cuba](https://www.gstatic.com/prettyearth/assets/full/6065.jpg)
 
-*[Libya](https://www.google.com/maps/@29.31218,16.049502,17z/data=!3m1!1e3)*
+*[Cuba](https://www.google.com/maps/@21.600096,-81.712087,15z/data=!3m1!1e3)*
