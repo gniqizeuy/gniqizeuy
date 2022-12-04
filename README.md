@@ -1,4 +1,4 @@
 
-![Israel](https://www.gstatic.com/prettyearth/assets/full/5355.jpg)
+![The Bahamas](https://www.gstatic.com/prettyearth/assets/full/1687.jpg)
 
-*[Israel](https://www.google.com/maps/@31.154604,35.436641,11z/data=!3m1!1e3)*
+*[The Bahamas](https://www.google.com/maps/@24.696076,-78.370199,15z/data=!3m1!1e3)*
