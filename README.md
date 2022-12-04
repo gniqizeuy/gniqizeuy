@@ -1,4 +1,4 @@
 
-![Peru](https://www.gstatic.com/prettyearth/assets/full/1437.jpg)
+![Libya](https://www.gstatic.com/prettyearth/assets/full/1101.jpg)
 
-*[Peru](https://www.google.com/maps/@-16.235545,-71.778231,16z/data=!3m1!1e3)*
+*[Libya](https://www.google.com/maps/@24.908349,17.750339,17z/data=!3m1!1e3)*
