@@ -1,4 +1,4 @@
 
-![Antarctica](https://www.gstatic.com/prettyearth/assets/full/5555.jpg)
+![Libya](https://www.gstatic.com/prettyearth/assets/full/6271.jpg)
 
-*[Antarctica](https://www.google.com/maps/@-69.143498,39.767418,14z/data=!3m1!1e3)*
+*[Libya](https://www.google.com/maps/@29.31218,16.049502,17z/data=!3m1!1e3)*
