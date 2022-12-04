@@ -1,4 +1,4 @@
 
-![Austria](https://www.gstatic.com/prettyearth/assets/full/1790.jpg)
+![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6389.jpg)
 
-*[Austria](https://www.google.com/maps/@47.32094,14.381811,10z/data=!3m1!1e3)*
+*[Mauritania](https://www.google.com/maps/@19.751013,-14.438059,15z/data=!3m1!1e3)*
