@@ -1,4 +1,4 @@
 
-![United Kingdom](https://www.gstatic.com/prettyearth/assets/full/1471.jpg)
+![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6496.jpg)
 
-*[United Kingdom](https://www.google.com/maps/@55.950656,-3.067058,17z/data=!3m1!1e3)*
+*[Mauritania](https://www.google.com/maps/@16.350327,-7.684464,17z/data=!3m1!1e3)*
