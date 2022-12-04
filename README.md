@@ -1,4 +1,4 @@
 
-![France](https://www.gstatic.com/prettyearth/assets/full/1505.jpg)
+![Namibia](https://www.gstatic.com/prettyearth/assets/full/1978.jpg)
 
-*[France](https://www.google.com/maps/@48.866839,2.310347,17z/data=!3m1!1e3)*
+*[Namibia](https://www.google.com/maps/@-24.710803,15.338725,13z/data=!3m1!1e3)*
