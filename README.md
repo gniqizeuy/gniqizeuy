@@ -1,4 +1,4 @@
 
-![British Indian Ocean Territory](https://www.gstatic.com/prettyearth/assets/full/5616.jpg)
+![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/5960.jpg)
 
-*[British Indian Ocean Territory](https://www.google.com/maps/@-7.232423,72.429842,16z/data=!3m1!1e3)*
+*[Kazakhstan](https://www.google.com/maps/@44.659322,64.955725,14z/data=!3m1!1e3)*
