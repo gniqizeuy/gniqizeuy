@@ -1,4 +1,4 @@
 
-![China](https://www.gstatic.com/prettyearth/assets/full/1341.jpg)
+![Ethiopia](https://www.gstatic.com/prettyearth/assets/full/2340.jpg)
 
-*[China](https://www.google.com/maps/@31.521932,84.19345,9z/data=!3m1!1e3)*
+*[Ethiopia](https://www.google.com/maps/@14.241522,40.298383,17z/data=!3m1!1e3)*
