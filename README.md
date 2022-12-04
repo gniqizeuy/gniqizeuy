@@ -1,4 +1,4 @@
 
-![Uzbekistan](https://www.gstatic.com/prettyearth/assets/full/6049.jpg)
+![Australia](https://www.gstatic.com/prettyearth/assets/full/2416.jpg)
 
-*[Uzbekistan](https://www.google.com/maps/@44.576285,58.517475,13z/data=!3m1!1e3)*
+*[Australia](https://www.google.com/maps/@-29.98529,146.43938,14z/data=!3m1!1e3)*
