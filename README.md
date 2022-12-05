@@ -1,4 +1,4 @@
 
-![Estonia](https://www.gstatic.com/prettyearth/assets/full/5529.jpg)
+![Singapore](https://www.gstatic.com/prettyearth/assets/full/7020.jpg)
 
-*[Estonia](https://www.google.com/maps/@59.342633,28.059575,16z/data=!3m1!1e3)*
+*[Singapore](https://www.google.com/maps/@1.252223,103.833382,11z/data=!3m1!1e3)*
