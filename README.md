@@ -1,4 +1,4 @@
 
-![United States](https://www.gstatic.com/prettyearth/assets/full/1298.jpg)
+![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/5960.jpg)
 
-*[United States](https://www.google.com/maps/@33.898442,-115.936386,16z/data=!3m1!1e3)*
+*[Kazakhstan](https://www.google.com/maps/@44.659322,64.955725,14z/data=!3m1!1e3)*
