@@ -1,4 +1,4 @@
 
-![Namibia](https://www.gstatic.com/prettyearth/assets/full/2230.jpg)
+![Madagascar](https://www.gstatic.com/prettyearth/assets/full/6003.jpg)
 
-*[Namibia](https://www.google.com/maps/@-24.495428,18.104009,14z/data=!3m1!1e3)*
+*[Madagascar](https://www.google.com/maps/@-25.142113,46.523892,17z/data=!3m1!1e3)*
