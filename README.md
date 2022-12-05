@@ -1,4 +1,4 @@
 
-![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6311.jpg)
+![Antarctica](https://www.gstatic.com/prettyearth/assets/full/6488.jpg)
 
-*[Mauritania](https://www.google.com/maps/@20.954105,-17.02234,16z/data=!3m1!1e3)*
+*[Antarctica](https://www.google.com/maps/@-71.536547,-14.480667,10z/data=!3m1!1e3)*
