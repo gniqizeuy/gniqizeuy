@@ -1,4 +1,4 @@
 
-![Peru](https://www.gstatic.com/prettyearth/assets/full/1435.jpg)
+![Chile](https://www.gstatic.com/prettyearth/assets/full/1138.jpg)
 
-*[Peru](https://www.google.com/maps/@-16.328076,-71.63964,18z/data=!3m1!1e3)*
+*[Chile](https://www.google.com/maps/@-23.473285,-68.353736,16z/data=!3m1!1e3)*
