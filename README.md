@@ -1,4 +1,4 @@
 
-![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/5960.jpg)
+![Australia](https://www.gstatic.com/prettyearth/assets/full/2407.jpg)
 
-*[Kazakhstan](https://www.google.com/maps/@44.659322,64.955725,14z/data=!3m1!1e3)*
+*[Australia](https://www.google.com/maps/@-29.430833,137.353021,17z/data=!3m1!1e3)*
