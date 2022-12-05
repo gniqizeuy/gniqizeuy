@@ -1,4 +1,4 @@
 
-![Madagascar](https://www.gstatic.com/prettyearth/assets/full/6019.jpg)
+![Estonia](https://www.gstatic.com/prettyearth/assets/full/5529.jpg)
 
-*[Madagascar](https://www.google.com/maps/@-15.472769,47.068305,14z/data=!3m1!1e3)*
+*[Estonia](https://www.google.com/maps/@59.342633,28.059575,16z/data=!3m1!1e3)*
