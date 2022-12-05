@@ -1,4 +1,4 @@
 
-![United States](https://www.gstatic.com/prettyearth/assets/full/1728.jpg)
+![Diomede Ilands](https://www.gstatic.com/prettyearth/assets/full/1646.jpg)
 
-*[United States](https://www.google.com/maps/@32.631906,-100.54396,18z/data=!3m1!1e3)*
+*[Diomede Ilands](https://www.google.com/maps/@65.828076,-169.013056,17z/data=!3m1!1e3)*
