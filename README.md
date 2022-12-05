@@ -1,4 +1,4 @@
 
-![Niger](https://www.gstatic.com/prettyearth/assets/full/1684.jpg)
+![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6380.jpg)
 
-*[Niger](https://www.google.com/maps/@16.001822,11.365184,13z/data=!3m1!1e3)*
+*[Mauritania](https://www.google.com/maps/@19.263204,-14.06918,17z/data=!3m1!1e3)*
