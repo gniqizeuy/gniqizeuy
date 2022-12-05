@@ -1,4 +1,4 @@
 
-![China](https://www.gstatic.com/prettyearth/assets/full/1184.jpg)
+![Niger](https://www.gstatic.com/prettyearth/assets/full/5720.jpg)
 
-*[China](https://www.google.com/maps/@39.495378,74.256196,15z/data=!3m1!1e3)*
+*[Niger](https://www.google.com/maps/@19.371271,12.898587,14z/data=!3m1!1e3)*
