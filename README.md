@@ -1,4 +1,4 @@
 
-![Turkmenistan](https://www.gstatic.com/prettyearth/assets/full/6048.jpg)
+![Madagascar](https://www.gstatic.com/prettyearth/assets/full/6018.jpg)
 
-*[Turkmenistan](https://www.google.com/maps/@41.728537,57.422276,14z/data=!3m1!1e3)*
+*[Madagascar](https://www.google.com/maps/@-15.619958,47.034745,15z/data=!3m1!1e3)*
