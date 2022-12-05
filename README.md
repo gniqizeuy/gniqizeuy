@@ -1,4 +1,4 @@
 
-![Argentina](https://www.gstatic.com/prettyearth/assets/full/2126.jpg)
+![British Indian Ocean Territory](https://www.gstatic.com/prettyearth/assets/full/5612.jpg)
 
-*[Argentina](https://www.google.com/maps/@-22.793748,-65.130601,11z/data=!3m1!1e3)*
+*[British Indian Ocean Territory](https://www.google.com/maps/@-7.394812,72.43615,15z/data=!3m1!1e3)*
