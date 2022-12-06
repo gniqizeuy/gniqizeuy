@@ -1,4 +1,4 @@
 
-![Egypt](https://www.gstatic.com/prettyearth/assets/full/6275.jpg)
+![Republic of the Union of Myanmar](https://www.gstatic.com/prettyearth/assets/full/1212.jpg)
 
-*[Egypt](https://www.google.com/maps/@26.298417,27.772236,15z/data=!3m1!1e3)*
+*[Republic of the Union of Myanmar](https://www.google.com/maps/@16.626858,97.078928,13z/data=!3m1!1e3)*
