@@ -1,4 +1,4 @@
 
-![China](https://www.gstatic.com/prettyearth/assets/full/1071.jpg)
+![Russia](https://www.gstatic.com/prettyearth/assets/full/2296.jpg)
 
-*[China](https://www.google.com/maps/@31.923391,83.117709,14z/data=!3m1!1e3)*
+*[Russia](https://www.google.com/maps/@65.430862,173.440887,12z/data=!3m1!1e3)*
