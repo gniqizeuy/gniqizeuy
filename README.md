@@ -1,4 +1,4 @@
 
-![Libya](https://www.gstatic.com/prettyearth/assets/full/6263.jpg)
+![Cook Islands](https://www.gstatic.com/prettyearth/assets/full/6213.jpg)
 
-*[Libya](https://www.google.com/maps/@27.556207,18.346245,17z/data=!3m1!1e3)*
+*[Cook Islands](https://www.google.com/maps/@-19.813102,-158.288704,16z/data=!3m1!1e3)*
