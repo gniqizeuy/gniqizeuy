@@ -1,4 +1,4 @@
 
-![New Caledonia](https://www.gstatic.com/prettyearth/assets/full/2270.jpg)
+![Greece](https://www.gstatic.com/prettyearth/assets/full/1762.jpg)
 
-*[New Caledonia](https://www.google.com/maps/@-21.776303,165.620855,18z/data=!3m1!1e3)*
+*[Greece](https://www.google.com/maps/@37.911226,23.703775,16z/data=!3m1!1e3)*
