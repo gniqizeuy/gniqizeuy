@@ -1,4 +1,4 @@
 
-![Egypt](https://www.gstatic.com/prettyearth/assets/full/6293.jpg)
+![Afghanistan](https://www.gstatic.com/prettyearth/assets/full/1924.jpg)
 
-*[Egypt](https://www.google.com/maps/@23.079435,31.2537,14z/data=!3m1!1e3)*
+*[Afghanistan](https://www.google.com/maps/@35.133115,69.303034,16z/data=!3m1!1e3)*
