@@ -1,4 +1,4 @@
 
-![Antigua and Barbuda](https://www.gstatic.com/prettyearth/assets/full/2176.jpg)
+![Pakistan](https://www.gstatic.com/prettyearth/assets/full/1980.jpg)
 
-*[Antigua and Barbuda](https://www.google.com/maps/@17.058241,-61.905126,17z/data=!3m1!1e3)*
+*[Pakistan](https://www.google.com/maps/@35.460091,71.688914,9z/data=!3m1!1e3)*
