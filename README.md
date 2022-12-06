@@ -1,4 +1,4 @@
 
-![French Polynesia](https://www.gstatic.com/prettyearth/assets/full/6217.jpg)
+![Ecuador](https://www.gstatic.com/prettyearth/assets/full/2118.jpg)
 
-*[French Polynesia](https://www.google.com/maps/@-23.394652,-149.446019,15z/data=!3m1!1e3)*
+*[Ecuador](https://www.google.com/maps/@-0.97441,-90.959179,17z/data=!3m1!1e3)*
