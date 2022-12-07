@@ -1,4 +1,4 @@
 
-![Chad](https://www.gstatic.com/prettyearth/assets/full/2259.jpg)
+![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/6050.jpg)
 
-*[Chad](https://www.google.com/maps/@18.805792,22.877479,15z/data=!3m1!1e3)*
+*[Kazakhstan](https://www.google.com/maps/@46.430285,60.364552,14z/data=!3m1!1e3)*
