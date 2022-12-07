@@ -1,4 +1,4 @@
 
-![Mexico](https://www.gstatic.com/prettyearth/assets/full/2203.jpg)
+![Libya](https://www.gstatic.com/prettyearth/assets/full/6258.jpg)
 
-*[Mexico](https://www.google.com/maps/@28.689689,-111.83802,16z/data=!3m1!1e3)*
+*[Libya](https://www.google.com/maps/@31.952189,19.944515,16z/data=!3m1!1e3)*
