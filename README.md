@@ -1,4 +1,4 @@
 
-![China](https://www.gstatic.com/prettyearth/assets/full/1070.jpg)
+![Maldives](https://www.gstatic.com/prettyearth/assets/full/2241.jpg)
 
-*[China](https://www.google.com/maps/@34.96925,97.094421,14z/data=!3m1!1e3)*
+*[Maldives](https://www.google.com/maps/@4.021773,73.474775,14z/data=!3m1!1e3)*
