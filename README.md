@@ -1,4 +1,4 @@
 
-![Kiribati](https://www.gstatic.com/prettyearth/assets/full/6202.jpg)
+![Turkey](https://www.gstatic.com/prettyearth/assets/full/6069.jpg)
 
-*[Kiribati](https://www.google.com/maps/@-1.875023,175.523044,16z/data=!3m1!1e3)*
+*[Turkey](https://www.google.com/maps/@40.395751,29.528932,14z/data=!3m1!1e3)*
