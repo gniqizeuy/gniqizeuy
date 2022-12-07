@@ -1,4 +1,4 @@
 
-![Chile](https://www.gstatic.com/prettyearth/assets/full/2251.jpg)
+![Cuba](https://www.gstatic.com/prettyearth/assets/full/5073.jpg)
 
-*[Chile](https://www.google.com/maps/@-24.220148,-69.059281,15z/data=!3m1!1e3)*
+*[Cuba](https://www.google.com/maps/@22.62753,-78.691844,16z/data=!3m1!1e3)*
