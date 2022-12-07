@@ -1,4 +1,4 @@
 
-![Australia](https://www.gstatic.com/prettyearth/assets/full/2038.jpg)
+![Faroe Islands](https://www.gstatic.com/prettyearth/assets/full/1824.jpg)
 
-*[Australia](https://www.google.com/maps/@-23.819515,132.306281,15z/data=!3m1!1e3)*
+*[Faroe Islands](https://www.google.com/maps/@62.150583,-6.784594,14z/data=!3m1!1e3)*
