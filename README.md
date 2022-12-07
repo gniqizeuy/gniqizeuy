@@ -1,4 +1,4 @@
 
-![Bolivia](https://www.gstatic.com/prettyearth/assets/full/5945.jpg)
+![Falkland Islands (Islas Malvinas)](https://www.gstatic.com/prettyearth/assets/full/1152.jpg)
 
-*[Bolivia](https://www.google.com/maps/@-19.863042,-67.193161,14z/data=!3m1!1e3)*
+*[Falkland Islands (Islas Malvinas)](https://www.google.com/maps/@-51.887054,-60.143291,17z/data=!3m1!1e3)*
