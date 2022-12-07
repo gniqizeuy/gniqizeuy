@@ -1,4 +1,4 @@
 
-![Russia](https://www.gstatic.com/prettyearth/assets/full/1209.jpg)
+![Kiribati](https://www.gstatic.com/prettyearth/assets/full/1423.jpg)
 
-*[Russia](https://www.google.com/maps/@65.48669,65.322229,12z/data=!3m1!1e3)*
+*[Kiribati](https://www.google.com/maps/@1.725472,-157.210515,16z/data=!3m1!1e3)*
