@@ -1,4 +1,4 @@
 
-![Iceland](https://www.gstatic.com/prettyearth/assets/full/2273.jpg)
+![Tajikistan](https://www.gstatic.com/prettyearth/assets/full/1085.jpg)
 
-*[Iceland](https://www.google.com/maps/@65.822777,-19.74213,16z/data=!3m1!1e3)*
+*[Tajikistan](https://www.google.com/maps/@38.894614,73.298504,17z/data=!3m1!1e3)*
