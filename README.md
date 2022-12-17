@@ -1,4 +1,4 @@
 
-![Iceland](https://www.gstatic.com/prettyearth/assets/full/2317.jpg)
+![Libya](https://www.gstatic.com/prettyearth/assets/full/1018.jpg)
 
-*[Iceland](https://www.google.com/maps/@63.980665,-17.17029,15z/data=!3m1!1e3)*
+*[Libya](https://www.google.com/maps/@24.659177,24.968061,15z/data=!3m1!1e3)*
