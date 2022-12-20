@@ -1,4 +1,4 @@
 
-![Ethiopia](https://www.gstatic.com/prettyearth/assets/full/6600.jpg)
+![Marshall Islands](https://www.gstatic.com/prettyearth/assets/full/6177.jpg)
 
-*[Ethiopia](https://www.google.com/maps/@11.772167,37.064266,16z/data=!3m1!1e3)*
+*[Marshall Islands](https://www.google.com/maps/@9.118548,167.334067,15z/data=!3m1!1e3)*
