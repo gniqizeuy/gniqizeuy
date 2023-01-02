@@ -1,4 +1,4 @@
 
-![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/6050.jpg)
+![Monaco](https://www.gstatic.com/prettyearth/assets/full/1286.jpg)
 
-*[Kazakhstan](https://www.google.com/maps/@46.430285,60.364552,14z/data=!3m1!1e3)*
+*[Monaco](https://www.google.com/maps/@43.734846,7.425299,18z/data=!3m1!1e3)*
