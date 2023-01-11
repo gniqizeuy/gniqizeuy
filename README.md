@@ -1,4 +1,4 @@
 
-![United States](https://www.gstatic.com/prettyearth/assets/full/1807.jpg)
+![Oman](https://www.gstatic.com/prettyearth/assets/full/2068.jpg)
 
-*[United States](https://www.google.com/maps/@33.473315,-111.878457,16z/data=!3m1!1e3)*
+*[Oman](https://www.google.com/maps/@17.357297,55.050586,14z/data=!3m1!1e3)*
