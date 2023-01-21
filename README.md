@@ -1,4 +1,4 @@
 
-![China](https://www.gstatic.com/prettyearth/assets/full/1075.jpg)
+![Namibia](https://www.gstatic.com/prettyearth/assets/full/5584.jpg)
 
-*[China](https://www.google.com/maps/@37.002237,99.895136,17z/data=!3m1!1e3)*
+*[Namibia](https://www.google.com/maps/@-23.574971,15.050669,15z/data=!3m1!1e3)*
