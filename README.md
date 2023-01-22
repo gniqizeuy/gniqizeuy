@@ -1,4 +1,4 @@
 
-![Namibia](https://www.gstatic.com/prettyearth/assets/full/5584.jpg)
+![Algeria](https://www.gstatic.com/prettyearth/assets/full/1511.jpg)
 
-*[Namibia](https://www.google.com/maps/@-23.574971,15.050669,15z/data=!3m1!1e3)*
+*[Algeria](https://www.google.com/maps/@29.119748,0.022799,16z/data=!3m1!1e3)*
