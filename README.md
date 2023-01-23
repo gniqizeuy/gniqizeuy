@@ -1,4 +1,4 @@
 
-![Algeria](https://www.gstatic.com/prettyearth/assets/full/1511.jpg)
+![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/5207.jpg)
 
-*[Algeria](https://www.google.com/maps/@29.119748,0.022799,16z/data=!3m1!1e3)*
+*[Kazakhstan](https://www.google.com/maps/@46.560631,77.16711,14z/data=!3m1!1e3)*
