@@ -1,4 +1,4 @@
 
-![Australia](https://www.gstatic.com/prettyearth/assets/full/5365.jpg)
+![Bolivia](https://www.gstatic.com/prettyearth/assets/full/2329.jpg)
 
-*[Australia](https://www.google.com/maps/@-12.654865,141.971735,13z/data=!3m1!1e3)*
+*[Bolivia](https://www.google.com/maps/@-19.946985,-67.050113,15z/data=!3m1!1e3)*
