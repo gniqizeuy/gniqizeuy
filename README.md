@@ -1,4 +1,4 @@
 
-![Somalia](https://www.gstatic.com/prettyearth/assets/full/6578.jpg)
+![Bolivia](https://www.gstatic.com/prettyearth/assets/full/2327.jpg)
 
-*[Somalia](https://www.google.com/maps/@4.036348,46.316385,15z/data=!3m1!1e3)*
+*[Bolivia](https://www.google.com/maps/@-19.657073,-67.39232,15z/data=!3m1!1e3)*
