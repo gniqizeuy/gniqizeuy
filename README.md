@@ -1,4 +1,4 @@
 
-![United States](https://www.gstatic.com/prettyearth/assets/full/5979.jpg)
+![Paraguay](https://www.gstatic.com/prettyearth/assets/full/5111.jpg)
 
-*[United States](https://www.google.com/maps/@29.324294,-94.946127,17z/data=!3m1!1e3)*
+*[Paraguay](https://www.google.com/maps/@-25.72693,-54.835742,15z/data=!3m1!1e3)*
