@@ -1,4 +1,4 @@
 
-![Estonia](https://www.gstatic.com/prettyearth/assets/full/5529.jpg)
+![Bolivia](https://www.gstatic.com/prettyearth/assets/full/6459.jpg)
 
-*[Estonia](https://www.google.com/maps/@59.342633,28.059575,16z/data=!3m1!1e3)*
+*[Bolivia](https://www.google.com/maps/@-20.583698,-67.558537,15z/data=!3m1!1e3)*
