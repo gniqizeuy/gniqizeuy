@@ -1,4 +1,4 @@
 
-![France](https://www.gstatic.com/prettyearth/assets/full/1407.jpg)
+![French Polynesia](https://www.gstatic.com/prettyearth/assets/full/6215.jpg)
 
-*[France](https://www.google.com/maps/@46.726438,-2.344186,17z/data=!3m1!1e3)*
+*[French Polynesia](https://www.google.com/maps/@-21.813238,-154.721023,17z/data=!3m1!1e3)*
