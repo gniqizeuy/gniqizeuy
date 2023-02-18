@@ -1,4 +1,4 @@
 
-![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/1086.jpg)
+![Iran](https://www.gstatic.com/prettyearth/assets/full/1965.jpg)
 
-*[Kazakhstan](https://www.google.com/maps/@45.742273,73.555854,16z/data=!3m1!1e3)*
+*[Iran](https://www.google.com/maps/@34.030479,56.042478,14z/data=!3m1!1e3)*
