@@ -1,4 +1,4 @@
 
-![New Caledonia](https://www.gstatic.com/prettyearth/assets/full/1243.jpg)
+![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6504.jpg)
 
-*[New Caledonia](https://www.google.com/maps/@-21.829473,165.698032,16z/data=!3m1!1e3)*
+*[Mauritania](https://www.google.com/maps/@18.236281,-12.671442,14z/data=!3m1!1e3)*
