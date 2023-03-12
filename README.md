@@ -1,4 +1,4 @@
 
-![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6504.jpg)
+![Bolivia](https://www.gstatic.com/prettyearth/assets/full/2324.jpg)
 
-*[Mauritania](https://www.google.com/maps/@18.236281,-12.671442,14z/data=!3m1!1e3)*
+*[Bolivia](https://www.google.com/maps/@-19.836556,-67.647393,17z/data=!3m1!1e3)*
