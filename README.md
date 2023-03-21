@@ -1,4 +1,4 @@
 
-![Japan](https://www.gstatic.com/prettyearth/assets/full/2113.jpg)
+![Uzbekistan](https://www.gstatic.com/prettyearth/assets/full/1620.jpg)
 
-*[Japan](https://www.google.com/maps/@27.049279,128.461052,18z/data=!3m1!1e3)*
+*[Uzbekistan](https://www.google.com/maps/@44.487063,60.865137,11z/data=!3m1!1e3)*
