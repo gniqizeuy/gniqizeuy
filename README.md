@@ -1,4 +1,4 @@
 
-![Uzbekistan](https://www.gstatic.com/prettyearth/assets/full/1620.jpg)
+![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6367.jpg)
 
-*[Uzbekistan](https://www.google.com/maps/@44.487063,60.865137,11z/data=!3m1!1e3)*
+*[Mauritania](https://www.google.com/maps/@21.584867,-10.635694,15z/data=!3m1!1e3)*
