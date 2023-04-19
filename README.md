@@ -1,4 +1,4 @@
 
-![Ethiopia](https://www.gstatic.com/prettyearth/assets/full/6600.jpg)
+![United Arab Emirates](https://www.gstatic.com/prettyearth/assets/full/1777.jpg)
 
-*[Ethiopia](https://www.google.com/maps/@11.772167,37.064266,16z/data=!3m1!1e3)*
+*[United Arab Emirates](https://www.google.com/maps/@25.161651,55.294128,17z/data=!3m1!1e3)*
