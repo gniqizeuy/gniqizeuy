@@ -1,4 +1,4 @@
 
-![Australia](https://www.gstatic.com/prettyearth/assets/full/2408.jpg)
+![Turkey](https://www.gstatic.com/prettyearth/assets/full/1888.jpg)
 
-*[Australia](https://www.google.com/maps/@-29.395954,137.327057,16z/data=!3m1!1e3)*
+*[Turkey](https://www.google.com/maps/@41.102942,28.991188,14z/data=!3m1!1e3)*
