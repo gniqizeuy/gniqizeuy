@@ -1,4 +1,4 @@
 
-![China](https://www.gstatic.com/prettyearth/assets/full/1829.jpg)
+![Libya](https://www.gstatic.com/prettyearth/assets/full/6254.jpg)
 
-*[China](https://www.google.com/maps/@29.360091,89.468321,12z/data=!3m1!1e3)*
+*[Libya](https://www.google.com/maps/@30.27192,19.11097,16z/data=!3m1!1e3)*
