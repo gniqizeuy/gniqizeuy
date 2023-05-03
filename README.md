@@ -1,4 +1,4 @@
 
-![China](https://www.gstatic.com/prettyearth/assets/full/1183.jpg)
+![Chad](https://www.gstatic.com/prettyearth/assets/full/1026.jpg)
 
-*[China](https://www.google.com/maps/@38.013794,86.957636,14z/data=!3m1!1e3)*
+*[Chad](https://www.google.com/maps/@18.431694,21.068799,15z/data=!3m1!1e3)*
