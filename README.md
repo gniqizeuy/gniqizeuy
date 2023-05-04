@@ -1,4 +1,4 @@
 
-![Chad](https://www.gstatic.com/prettyearth/assets/full/1026.jpg)
+![Chile](https://www.gstatic.com/prettyearth/assets/full/1004.jpg)
 
-*[Chad](https://www.google.com/maps/@18.431694,21.068799,15z/data=!3m1!1e3)*
+*[Chile](https://www.google.com/maps/@-19.140249,-68.683995,15z/data=!3m1!1e3)*
