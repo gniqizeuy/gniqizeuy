@@ -1,4 +1,4 @@
 
-![United Kingdom](https://www.gstatic.com/prettyearth/assets/full/1301.jpg)
+![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/1074.jpg)
 
-*[United Kingdom](https://www.google.com/maps/@52.039415,-2.770135,17z/data=!3m1!1e3)*
+*[Kazakhstan](https://www.google.com/maps/@46.666756,61.502323,14z/data=!3m1!1e3)*
