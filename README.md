@@ -1,4 +1,4 @@
 
-![Indonesia](https://www.gstatic.com/prettyearth/assets/full/6043.jpg)
+![Bolivia](https://www.gstatic.com/prettyearth/assets/full/6032.jpg)
 
-*[Indonesia](https://www.google.com/maps/@5.217454,97.410276,15z/data=!3m1!1e3)*
+*[Bolivia](https://www.google.com/maps/@-18.815968,-67.289028,15z/data=!3m1!1e3)*
