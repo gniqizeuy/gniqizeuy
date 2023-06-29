@@ -1,4 +1,4 @@
 
-![Saudi Arabia](https://www.gstatic.com/prettyearth/assets/full/2066.jpg)
+![Afghanistan](https://www.gstatic.com/prettyearth/assets/full/1494.jpg)
 
-*[Saudi Arabia](https://www.google.com/maps/@22.083196,54.680399,15z/data=!3m1!1e3)*
+*[Afghanistan](https://www.google.com/maps/@34.596951,69.297211,17z/data=!3m1!1e3)*
