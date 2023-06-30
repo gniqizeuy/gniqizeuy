@@ -1,4 +1,4 @@
 
-![Afghanistan](https://www.gstatic.com/prettyearth/assets/full/1494.jpg)
+![China](https://www.gstatic.com/prettyearth/assets/full/1022.jpg)
 
-*[Afghanistan](https://www.google.com/maps/@34.596951,69.297211,17z/data=!3m1!1e3)*
+*[China](https://www.google.com/maps/@35.286769,100.291448,16z/data=!3m1!1e3)*
