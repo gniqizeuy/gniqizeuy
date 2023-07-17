@@ -1,4 +1,4 @@
 
-![Bolivia](https://www.gstatic.com/prettyearth/assets/full/6459.jpg)
+![Ethiopia](https://www.gstatic.com/prettyearth/assets/full/6600.jpg)
 
-*[Bolivia](https://www.google.com/maps/@-20.583698,-67.558537,15z/data=!3m1!1e3)*
+*[Ethiopia](https://www.google.com/maps/@11.772167,37.064266,16z/data=!3m1!1e3)*
