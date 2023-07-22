@@ -1,4 +1,4 @@
 
-![United States](https://www.gstatic.com/prettyearth/assets/full/2179.jpg)
+![Namibia](https://www.gstatic.com/prettyearth/assets/full/1977.jpg)
 
-*[United States](https://www.google.com/maps/@41.685252,-83.45584,15z/data=!3m1!1e3)*
+*[Namibia](https://www.google.com/maps/@-24.706592,15.057544,18z/data=!3m1!1e3)*
