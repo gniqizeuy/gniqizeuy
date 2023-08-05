@@ -1,4 +1,4 @@
 
-![Namibia](https://www.gstatic.com/prettyearth/assets/full/5584.jpg)
+![Cook Islands](https://www.gstatic.com/prettyearth/assets/full/5829.jpg)
 
-*[Namibia](https://www.google.com/maps/@-23.574971,15.050669,15z/data=!3m1!1e3)*
+*[Cook Islands](https://www.google.com/maps/@-18.906032,-159.732863,17z/data=!3m1!1e3)*
