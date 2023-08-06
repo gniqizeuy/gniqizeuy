@@ -1,4 +1,4 @@
 
-![Cook Islands](https://www.gstatic.com/prettyearth/assets/full/5829.jpg)
+![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6379.jpg)
 
-*[Cook Islands](https://www.google.com/maps/@-18.906032,-159.732863,17z/data=!3m1!1e3)*
+*[Mauritania](https://www.google.com/maps/@18.340819,-10.644643,12z/data=!3m1!1e3)*
