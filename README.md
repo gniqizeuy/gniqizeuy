@@ -1,4 +1,4 @@
 
-![French Polynesia](https://www.gstatic.com/prettyearth/assets/full/6218.jpg)
+![Libya](https://www.gstatic.com/prettyearth/assets/full/2048.jpg)
 
-*[French Polynesia](https://www.google.com/maps/@-23.374287,-149.533652,16z/data=!3m1!1e3)*
+*[Libya](https://www.google.com/maps/@32.340816,20.559541,15z/data=!3m1!1e3)*
