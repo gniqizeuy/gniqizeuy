@@ -1,4 +1,4 @@
 
-![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6319.jpg)
+![Botswana](https://www.gstatic.com/prettyearth/assets/full/1444.jpg)
 
-*[Mauritania](https://www.google.com/maps/@21.007048,-16.819479,16z/data=!3m1!1e3)*
+*[Botswana](https://www.google.com/maps/@-21.519547,25.676315,15z/data=!3m1!1e3)*
