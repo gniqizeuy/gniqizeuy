@@ -1,4 +1,4 @@
 
-![Botswana](https://www.gstatic.com/prettyearth/assets/full/1444.jpg)
+![Falkland Islands (Islas Malvinas)](https://www.gstatic.com/prettyearth/assets/full/1154.jpg)
 
-*[Botswana](https://www.google.com/maps/@-21.519547,25.676315,15z/data=!3m1!1e3)*
+*[Falkland Islands (Islas Malvinas)](https://www.google.com/maps/@-51.765426,-60.205795,17z/data=!3m1!1e3)*
