@@ -1,4 +1,4 @@
 
-![Cuba](https://www.gstatic.com/prettyearth/assets/full/5071.jpg)
+![Uzbekistan](https://www.gstatic.com/prettyearth/assets/full/1623.jpg)
 
-*[Cuba](https://www.google.com/maps/@22.115273,-77.802832,14z/data=!3m1!1e3)*
+*[Uzbekistan](https://www.google.com/maps/@43.269568,59.152901,13z/data=!3m1!1e3)*
