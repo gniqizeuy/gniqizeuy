@@ -1,4 +1,4 @@
 
-![The Netherlands](https://www.gstatic.com/prettyearth/assets/full/2212.jpg)
+![Libya](https://www.gstatic.com/prettyearth/assets/full/2012.jpg)
 
-*[The Netherlands](https://www.google.com/maps/@51.880348,4.315076,18z/data=!3m1!1e3)*
+*[Libya](https://www.google.com/maps/@23.233262,13.985574,15z/data=!3m1!1e3)*
