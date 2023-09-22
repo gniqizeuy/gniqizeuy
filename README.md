@@ -1,4 +1,4 @@
 
-![Maldives](https://www.gstatic.com/prettyearth/assets/full/1915.jpg)
+![Bolivia](https://www.gstatic.com/prettyearth/assets/full/2325.jpg)
 
-*[Maldives](https://www.google.com/maps/@4.250097,73.544465,18z/data=!3m1!1e3)*
+*[Bolivia](https://www.google.com/maps/@-19.683562,-67.622282,17z/data=!3m1!1e3)*
