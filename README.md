@@ -1,4 +1,4 @@
 
-![United States](https://www.gstatic.com/prettyearth/assets/full/1440.jpg)
+![Ecuador](https://www.gstatic.com/prettyearth/assets/full/1338.jpg)
 
-*[United States](https://www.google.com/maps/@34.144443,-118.830142,17z/data=!3m1!1e3)*
+*[Ecuador](https://www.google.com/maps/@-0.370973,-91.548408,15z/data=!3m1!1e3)*
