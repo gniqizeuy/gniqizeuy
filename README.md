@@ -1,4 +1,4 @@
 
-![Ecuador](https://www.gstatic.com/prettyearth/assets/full/1338.jpg)
+![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/5951.jpg)
 
-*[Ecuador](https://www.google.com/maps/@-0.370973,-91.548408,15z/data=!3m1!1e3)*
+*[Kazakhstan](https://www.google.com/maps/@44.77109,64.626093,15z/data=!3m1!1e3)*
