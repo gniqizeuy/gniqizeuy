@@ -1,4 +1,4 @@
 
-![Germany](https://www.gstatic.com/prettyearth/assets/full/1118.jpg)
+![Samoa](https://www.gstatic.com/prettyearth/assets/full/6208.jpg)
 
-*[Germany](https://www.google.com/maps/@50.909006,6.542559,18z/data=!3m1!1e3)*
+*[Samoa](https://www.google.com/maps/@-13.733945,-172.192954,16z/data=!3m1!1e3)*
