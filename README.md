@@ -1,4 +1,4 @@
 
-![China](https://www.gstatic.com/prettyearth/assets/full/2025.jpg)
+![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6364.jpg)
 
-*[China](https://www.google.com/maps/@36.18323,80.951706,17z/data=!3m1!1e3)*
+*[Mauritania](https://www.google.com/maps/@21.634402,-10.575591,15z/data=!3m1!1e3)*
