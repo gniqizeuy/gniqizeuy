@@ -1,4 +1,4 @@
 
-![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/6054.jpg)
+![Libya](https://www.gstatic.com/prettyearth/assets/full/6266.jpg)
 
-*[Kazakhstan](https://www.google.com/maps/@46.32589,81.918011,14z/data=!3m1!1e3)*
+*[Libya](https://www.google.com/maps/@29.267977,16.039481,17z/data=!3m1!1e3)*
