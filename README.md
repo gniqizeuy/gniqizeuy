@@ -1,4 +1,4 @@
 
-![Ecuador](https://www.gstatic.com/prettyearth/assets/full/1338.jpg)
+![Falkland Islands (Islas Malvinas)](https://www.gstatic.com/prettyearth/assets/full/1152.jpg)
 
-*[Ecuador](https://www.google.com/maps/@-0.370973,-91.548408,15z/data=!3m1!1e3)*
+*[Falkland Islands (Islas Malvinas)](https://www.google.com/maps/@-51.887054,-60.143291,17z/data=!3m1!1e3)*
