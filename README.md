@@ -1,4 +1,4 @@
 
-![Chile](https://www.gstatic.com/prettyearth/assets/full/2251.jpg)
+![Oman](https://www.gstatic.com/prettyearth/assets/full/2069.jpg)
 
-*[Chile](https://www.google.com/maps/@-24.220148,-69.059281,15z/data=!3m1!1e3)*
+*[Oman](https://www.google.com/maps/@17.351317,54.931968,15z/data=!3m1!1e3)*
