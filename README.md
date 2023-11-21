@@ -1,4 +1,4 @@
 
-![Spain](https://www.gstatic.com/prettyearth/assets/full/5620.jpg)
+![Kenya](https://www.gstatic.com/prettyearth/assets/full/7012.jpg)
 
-*[Spain](https://www.google.com/maps/@41.406985,2.175912,18z/data=!3m1!1e3)*
+*[Kenya](https://www.google.com/maps/@2.255778,37.939909,11z/data=!3m1!1e3)*
