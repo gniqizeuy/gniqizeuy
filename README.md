@@ -1,4 +1,4 @@
 
-![Mexico](https://www.gstatic.com/prettyearth/assets/full/2191.jpg)
+![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/5960.jpg)
 
-*[Mexico](https://www.google.com/maps/@25.097506,-112.123353,16z/data=!3m1!1e3)*
+*[Kazakhstan](https://www.google.com/maps/@44.659322,64.955725,14z/data=!3m1!1e3)*
