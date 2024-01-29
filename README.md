@@ -1,4 +1,4 @@
 
-![Turkey](https://www.gstatic.com/prettyearth/assets/full/6069.jpg)
+![Somalia](https://www.gstatic.com/prettyearth/assets/full/2168.jpg)
 
-*[Turkey](https://www.google.com/maps/@40.395751,29.528932,14z/data=!3m1!1e3)*
+*[Somalia](https://www.google.com/maps/@10.413943,51.115917,16z/data=!3m1!1e3)*
