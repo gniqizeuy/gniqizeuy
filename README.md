@@ -1,4 +1,4 @@
 
-![Iceland](https://www.gstatic.com/prettyearth/assets/full/2317.jpg)
+![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/6050.jpg)
 
-*[Iceland](https://www.google.com/maps/@63.980665,-17.17029,15z/data=!3m1!1e3)*
+*[Kazakhstan](https://www.google.com/maps/@46.430285,60.364552,14z/data=!3m1!1e3)*
