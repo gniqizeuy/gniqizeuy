@@ -1,4 +1,4 @@
 
-![New Zealand](https://www.gstatic.com/prettyearth/assets/full/5790.jpg)
+![Vanuatu](https://www.gstatic.com/prettyearth/assets/full/5810.jpg)
 
-*[New Zealand](https://www.google.com/maps/@-43.851881,172.146173,16z/data=!3m1!1e3)*
+*[Vanuatu](https://www.google.com/maps/@-15.437817,167.211818,17z/data=!3m1!1e3)*
