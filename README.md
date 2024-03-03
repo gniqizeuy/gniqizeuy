@@ -1,4 +1,4 @@
 
-![Egypt](https://www.gstatic.com/prettyearth/assets/full/1732.jpg)
+![Kyrgyzstan](https://www.gstatic.com/prettyearth/assets/full/1776.jpg)
 
-*[Egypt](https://www.google.com/maps/@29.017322,30.224154,16z/data=!3m1!1e3)*
+*[Kyrgyzstan](https://www.google.com/maps/@42.241868,77.776065,8z/data=!3m1!1e3)*
