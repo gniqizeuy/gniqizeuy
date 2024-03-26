@@ -1,4 +1,4 @@
 
-![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6377.jpg)
+![South Pacific](https://www.gstatic.com/prettyearth/assets/full/6206.jpg)
 
-*[Mauritania](https://www.google.com/maps/@21.329655,-14.219191,14z/data=!3m1!1e3)*
+*[South Pacific](https://www.google.com/maps/@-11.61468,169.843628,15z/data=!3m1!1e3)*
