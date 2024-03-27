@@ -1,4 +1,4 @@
 
-![South Pacific](https://www.gstatic.com/prettyearth/assets/full/6206.jpg)
+![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/6050.jpg)
 
-*[South Pacific](https://www.google.com/maps/@-11.61468,169.843628,15z/data=!3m1!1e3)*
+*[Kazakhstan](https://www.google.com/maps/@46.430285,60.364552,14z/data=!3m1!1e3)*
