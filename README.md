@@ -1,4 +1,4 @@
 
-![British Indian Ocean Territory](https://www.gstatic.com/prettyearth/assets/full/5612.jpg)
+![Russia](https://www.gstatic.com/prettyearth/assets/full/1561.jpg)
 
-*[British Indian Ocean Territory](https://www.google.com/maps/@-7.394812,72.43615,15z/data=!3m1!1e3)*
+*[Russia](https://www.google.com/maps/@57.368198,162.515293,12z/data=!3m1!1e3)*
