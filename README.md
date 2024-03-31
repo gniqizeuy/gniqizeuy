@@ -1,4 +1,4 @@
 
-![Russia](https://www.gstatic.com/prettyearth/assets/full/1561.jpg)
+![Egypt](https://www.gstatic.com/prettyearth/assets/full/6285.jpg)
 
-*[Russia](https://www.google.com/maps/@57.368198,162.515293,12z/data=!3m1!1e3)*
+*[Egypt](https://www.google.com/maps/@28.524426,26.950879,16z/data=!3m1!1e3)*
