@@ -1,4 +1,4 @@
 
-![Chad](https://www.gstatic.com/prettyearth/assets/full/2259.jpg)
+![Algeria](https://www.gstatic.com/prettyearth/assets/full/1675.jpg)
 
-*[Chad](https://www.google.com/maps/@18.805792,22.877479,15z/data=!3m1!1e3)*
+*[Algeria](https://www.google.com/maps/@30.595033,7.928406,18z/data=!3m1!1e3)*
