@@ -1,4 +1,4 @@
 
-![Libya](https://www.gstatic.com/prettyearth/assets/full/1466.jpg)
+![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6340.jpg)
 
-*[Libya](https://www.google.com/maps/@32.466141,11.990215,16z/data=!3m1!1e3)*
+*[Mauritania](https://www.google.com/maps/@19.902471,-15.970775,16z/data=!3m1!1e3)*
