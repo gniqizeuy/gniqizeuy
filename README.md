@@ -1,4 +1,4 @@
 
-![United States](https://www.gstatic.com/prettyearth/assets/full/6135.jpg)
+![Switzerland](https://www.gstatic.com/prettyearth/assets/full/5749.jpg)
 
-*[United States](https://www.google.com/maps/@19.825646,-155.992341,16z/data=!3m1!1e3)*
+*[Switzerland](https://www.google.com/maps/@45.981218,7.681332,14z/data=!3m1!1e3)*
