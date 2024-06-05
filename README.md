@@ -1,4 +1,4 @@
 
-![Peru](https://www.gstatic.com/prettyearth/assets/full/1098.jpg)
+![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/6054.jpg)
 
-*[Peru](https://www.google.com/maps/@-17.0673,-70.777984,16z/data=!3m1!1e3)*
+*[Kazakhstan](https://www.google.com/maps/@46.32589,81.918011,14z/data=!3m1!1e3)*
