@@ -1,4 +1,4 @@
 
-![Argentina](https://www.gstatic.com/prettyearth/assets/full/1594.jpg)
+![Cuba](https://www.gstatic.com/prettyearth/assets/full/5071.jpg)
 
-*[Argentina](https://www.google.com/maps/@-50.119473,-69.128006,16z/data=!3m1!1e3)*
+*[Cuba](https://www.google.com/maps/@22.115273,-77.802832,14z/data=!3m1!1e3)*
