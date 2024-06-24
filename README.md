@@ -1,4 +1,4 @@
 
-![United States](https://www.gstatic.com/prettyearth/assets/full/1825.jpg)
+![Uzbekistan](https://www.gstatic.com/prettyearth/assets/full/1623.jpg)
 
-*[United States](https://www.google.com/maps/@35.421091,-118.82598,18z/data=!3m1!1e3)*
+*[Uzbekistan](https://www.google.com/maps/@43.269568,59.152901,13z/data=!3m1!1e3)*
