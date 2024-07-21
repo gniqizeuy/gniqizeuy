@@ -1,4 +1,4 @@
 
-![United States](https://www.gstatic.com/prettyearth/assets/full/1841.jpg)
+![Turkey](https://www.gstatic.com/prettyearth/assets/full/1345.jpg)
 
-*[United States](https://www.google.com/maps/@40.171397,-76.245289,15z/data=!3m1!1e3)*
+*[Turkey](https://www.google.com/maps/@37.608897,38.488268,11z/data=!3m1!1e3)*
