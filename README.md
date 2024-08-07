@@ -1,4 +1,4 @@
 
-![Turkey](https://www.gstatic.com/prettyearth/assets/full/1345.jpg)
+![United Arab Emirates](https://www.gstatic.com/prettyearth/assets/full/1572.jpg)
 
-*[Turkey](https://www.google.com/maps/@37.608897,38.488268,11z/data=!3m1!1e3)*
+*[United Arab Emirates](https://www.google.com/maps/@24.526819,54.553614,16z/data=!3m1!1e3)*
