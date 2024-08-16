@@ -1,4 +1,4 @@
 
-![Madagascar](https://www.gstatic.com/prettyearth/assets/full/6005.jpg)
+![Bolivia](https://www.gstatic.com/prettyearth/assets/full/2329.jpg)
 
-*[Madagascar](https://www.google.com/maps/@-23.889134,43.654389,16z/data=!3m1!1e3)*
+*[Bolivia](https://www.google.com/maps/@-19.946985,-67.050113,15z/data=!3m1!1e3)*
