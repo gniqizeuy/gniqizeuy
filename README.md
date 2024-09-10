@@ -1,4 +1,4 @@
 
-![Russia](https://www.gstatic.com/prettyearth/assets/full/1897.jpg)
+![Marshall Islands](https://www.gstatic.com/prettyearth/assets/full/6181.jpg)
 
-*[Russia](https://www.google.com/maps/@55.75245,37.623013,14z/data=!3m1!1e3)*
+*[Marshall Islands](https://www.google.com/maps/@5.903272,172.156121,16z/data=!3m1!1e3)*
