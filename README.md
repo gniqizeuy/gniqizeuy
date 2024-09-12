@@ -1,4 +1,4 @@
 
-![United States](https://www.gstatic.com/prettyearth/assets/full/1258.jpg)
+![Mali](https://www.gstatic.com/prettyearth/assets/full/6500.jpg)
 
-*[United States](https://www.google.com/maps/@36.674511,-111.735163,14z/data=!3m1!1e3)*
+*[Mali](https://www.google.com/maps/@15.930299,-3.641968,14z/data=!3m1!1e3)*
