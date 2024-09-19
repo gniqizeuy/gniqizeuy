@@ -1,4 +1,4 @@
 
-![Bolivia](https://www.gstatic.com/prettyearth/assets/full/2332.jpg)
+![New Caledonia](https://www.gstatic.com/prettyearth/assets/full/2270.jpg)
 
-*[Bolivia](https://www.google.com/maps/@-20.151038,-67.135536,16z/data=!3m1!1e3)*
+*[New Caledonia](https://www.google.com/maps/@-21.776303,165.620855,18z/data=!3m1!1e3)*
