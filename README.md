@@ -1,4 +1,4 @@
 
-![Turkmenistan](https://www.gstatic.com/prettyearth/assets/full/6531.jpg)
+![United States](https://www.gstatic.com/prettyearth/assets/full/1417.jpg)
 
-*[Turkmenistan](https://www.google.com/maps/@37.058191,62.603531,12z/data=!3m1!1e3)*
+*[United States](https://www.google.com/maps/@41.891438,-87.611117,16z/data=!3m1!1e3)*
