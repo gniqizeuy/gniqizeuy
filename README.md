@@ -1,4 +1,4 @@
 
-![Spain](https://www.gstatic.com/prettyearth/assets/full/5767.jpg)
+![Namibia](https://www.gstatic.com/prettyearth/assets/full/5583.jpg)
 
-*[Spain](https://www.google.com/maps/@37.418585,-6.282042,18z/data=!3m1!1e3)*
+*[Namibia](https://www.google.com/maps/@-23.537088,15.023289,17z/data=!3m1!1e3)*
