@@ -1,4 +1,4 @@
 
-![Czech Republic](https://www.gstatic.com/prettyearth/assets/full/1316.jpg)
+![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/5425.jpg)
 
-*[Czech Republic](https://www.google.com/maps/@50.410713,13.335257,17z/data=!3m1!1e3)*
+*[Kazakhstan](https://www.google.com/maps/@45.394871,62.566244,13z/data=!3m1!1e3)*
