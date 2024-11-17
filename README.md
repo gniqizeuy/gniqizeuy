@@ -1,4 +1,4 @@
 
-![Iran](https://www.gstatic.com/prettyearth/assets/full/1826.jpg)
+![Mauritania](https://www.gstatic.com/prettyearth/assets/full/6367.jpg)
 
-*[Iran](https://www.google.com/maps/@33.610911,45.932089,14z/data=!3m1!1e3)*
+*[Mauritania](https://www.google.com/maps/@21.584867,-10.635694,15z/data=!3m1!1e3)*
