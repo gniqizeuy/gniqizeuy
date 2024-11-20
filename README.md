@@ -1,4 +1,4 @@
 
-![Kazakhstan](https://www.gstatic.com/prettyearth/assets/full/2246.jpg)
+![Argentina](https://www.gstatic.com/prettyearth/assets/full/1527.jpg)
 
-*[Kazakhstan](https://www.google.com/maps/@46.080614,60.719033,14z/data=!3m1!1e3)*
+*[Argentina](https://www.google.com/maps/@-50.063857,-68.451875,16z/data=!3m1!1e3)*
