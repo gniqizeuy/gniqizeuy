@@ -1,4 +1,4 @@
 
-![Egypt](https://www.gstatic.com/prettyearth/assets/full/1716.jpg)
+![Somalia](https://www.gstatic.com/prettyearth/assets/full/2166.jpg)
 
-*[Egypt](https://www.google.com/maps/@29.285106,30.050491,17z/data=!3m1!1e3)*
+*[Somalia](https://www.google.com/maps/@10.471742,51.043604,15z/data=!3m1!1e3)*
